@@ -1,0 +1,7 @@
+node_modules
+.env
+.vscode
+mongodb-data
+coverage
+src/logs
+audit.json
